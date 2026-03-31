@@ -21,4 +21,4 @@ git clone https://github.com/yelyzavetaholovko-ui/bse-lr1-holovko.git
 cd bse-lr1-holovko
 ```
 
-**Статус проєкту:** Лабораторна робота виконується.
+**Статус проєкту:** Лабораторна робота виконана.
